@@ -1,8 +1,6 @@
 📝 Interactive Web Development Quiz
 🌐 Live Project:
-
-https://your-live-link-here.com
- (replace with actual link if deployed)
+file:///C:/Users/megha/OneDrive/Desktop/unifiedmentor/Interactive-quiz-main/Interactive-quiz-main/INTERACTIVE%20QUIZ/index.html
 
 📖 Overview
 
