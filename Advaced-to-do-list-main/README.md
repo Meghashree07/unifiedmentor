@@ -1,4 +1,3 @@
-# Advaced-to-do-list
 # 📝 Advanced To-Do List
 
 # To open projet : https://advaced-to-do-list.vercel.app/
